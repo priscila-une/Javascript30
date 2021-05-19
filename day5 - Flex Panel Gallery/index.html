@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <meta name="author" content="Priscila Une">
+    <title>Seasons | BR | JP | EN</title>
+</head>
+<body>  
+    <div class="panels">
+        <div class="panel panel0">
+            <p>Estações</p>
+            <p>四季</p>
+            <p>Seasons</p>
+        </div>
+        <div class="panel panel1">
+            <p>Primavera</p>
+            <p>春</p>
+            <p>Spring</p>
+        </div> 
+        <div class="panel panel2">
+            <p>Verão</p>
+            <p>夏</p>
+            <p>Summer</p>
+        </div> 
+        <div class="panel panel3">
+            <p>Outono</p>
+            <p>秋</p>
+            <p>Autumn</p>
+        </div> 
+        <div class="panel panel4">
+            <p>Inverno</p>
+            <p>冬</p>
+            <p>Winter</p>
+        </div> 
+        
+    </div>
+    
+
+    <script>
+        const panels = document.querySelectorAll(".panel");
+
+        function toggleOpen(){
+            console.log('Hello');
+            this.classList.toggle('open');
+        }
+
+        function toggleActive(e) {
+            console.log(e.propertyName);
+            if( e.propertyName.includes('flex')){
+                this.classList.toggle('open-active');
+            }
+        }
+
+        panels.forEach(panel => panel.addEventListener('click', toggleOpen));
+        panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
+
+
+    </script>
+</body>
+</html>

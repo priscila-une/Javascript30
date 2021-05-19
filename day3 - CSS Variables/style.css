@@ -1,0 +1,40 @@
+:root{
+    --base: #8a46f8;
+    --spacing: 10px;
+    --blur: 2px;
+}
+
+body{
+    background: #564a4a;
+    text-align: center;
+    font-family: "Kanit" , monospace;
+    color: #f55c47;
+    font-size: 2rem;
+    
+}
+
+h1{
+    margin: 5px;
+}
+
+.js{
+    color: var(--base);
+    font-size: 1.5em;
+    
+}
+.controls{
+    margin-bottom: 30px;
+}
+
+label{
+
+    font-size: 40px;
+}
+
+img{
+    width: 80vw;
+    height: 100vh;
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+}

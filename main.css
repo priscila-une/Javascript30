@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(194, 193, 206);
+    
+}
+
+header{
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 3rem;
+}
+.principal-text{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.icon{
+    margin: 30px auto;
+}
+#github{
+    font-size: 2rem;
+}
+
+#github:hover{
+    color:darkmagenta;
+}
+
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.item:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 1em deeppink ;
+}
+
+.item{
+    width: 400px;
+    height: 300px;
+    border: solid 1px rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    border-radius: 10px;
+   
+}
