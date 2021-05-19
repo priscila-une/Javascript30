@@ -1,13 +1,15 @@
 # Javascript30
 My Javascript practice from https://javascript30.com/ by Wes Bos.
 
+## 🚧 Under Construction 
+
 <ol>
 
- <li>JS Drum Kit</li>
- <li>JS + CSS Clock</li>
- <li>CSS Variables and JS</li>
- <li>Array Cardio Day 1</li>
- <li>Flex Panels Image Gallery</li>
+ <li>JS Drum Kit ✔️</li>
+ <li>JS + CSS Clock ✔️</li>
+ <li>CSS Variables and JS ✔️</li>
+ <li>Array Cardio Day 1 ✔️</li>
+ <li>Flex Panels Image Gallery ✔️</li>
  <li>Ajax Type Ahead</li>
  <li>Array Cardio Day 2</li>
  <li>Fun with HTML5 Canvas</li>
