@@ -10,8 +10,8 @@ Demo [HERE](https://priscila-une.github.io/Javascript30/ "HERE")
  <li>CSS Variables and JS ✔️</li>
  <li>Array Cardio Day 1 ✔️</li>
  <li>Flex Panels Image Gallery ✔️</li>
- <li>Ajax Type Ahead</li>
- <li>Array Cardio Day 2</li>
+ <li>Ajax Type Ahead ✔️</li>
+ <li>Array Cardio Day 2 ✔️</li>
  <li>Fun with HTML5 Canvas</li>
  <li>14 Must Know Dev Tools Tricks</li>
  <li>Hold Shift to Check Multiple Checkboxes</li>
