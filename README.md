@@ -12,8 +12,8 @@ Demo [HERE](https://priscila-une.github.io/Javascript30/ "HERE")
  <li>Flex Panels Image Gallery ✔️</li>
  <li>Ajax Type Ahead ✔️</li>
  <li>Array Cardio Day 2 ✔️</li>
- <li>Fun with HTML5 Canvas</li>
- <li>14 Must Know Dev Tools Tricks</li>
+ <li>Fun with HTML5 Canvas ✔️</li>
+ <li>14 Must Know Dev Tools Tricks ✔️</li>
  <li>Hold Shift to Check Multiple Checkboxes</li>
  <li>Custom Video Player</li>
  <li>Key Sequence Detection (KONAMI CODE)</li>
