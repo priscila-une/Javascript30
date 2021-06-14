@@ -14,8 +14,8 @@ Demo [HERE](https://priscila-une.github.io/Javascript30/ "HERE")
  <li>Array Cardio Day 2 ✔️</li>
  <li>Fun with HTML5 Canvas ✔️</li>
  <li>14 Must Know Dev Tools Tricks ✔️</li>
- <li>Hold Shift to Check Multiple Checkboxes</li>
- <li>Custom Video Player</li>
+ <li>Hold Shift to Check Multiple Checkboxes ✔️</li>
+ <li>Custom Video Player ✔️</li>
  <li>Key Sequence Detection (KONAMI CODE)</li>
  <li>Slide In on Scroll</li>
  <li>Object and Arrays - Reference VS Copy</li>
